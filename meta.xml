@@ -1,0 +1,7 @@
+<meta>
+    <!-- Resource info -->
+    <info name="Random Vehicle Spawner" author="Abner" description="Spawns random vehicles at intervals." version="1.0.0" />
+    
+    <!-- Resource settings -->
+    <script src="randomvehicle.lua" type="server" />
+</meta>
