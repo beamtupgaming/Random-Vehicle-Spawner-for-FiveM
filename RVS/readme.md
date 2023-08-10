@@ -12,11 +12,9 @@ This resource adds a script to your FiveM server that allows for the spawning of
 
 ## Installation
 
-1. Copy the contents of the `randomvehicle.lua` script and create a new LUA script file in your resource folder.
-2. Create a `meta.xml` file in the same folder and define the resource settings.
-3. Add the resource folder to the resources directory of your FiveM server.
-4. Restart or start your FiveM server.
-5. Use the `/start randomvehicle_spawner` command in the server console to start the resource.
+1. Drag and drop the "RVS" folder and it's contents into your "Resources" folder on your FiveM server.
+2. Add RVS to your starts on your server config if needed.
+3. Start/restart your server. Alternatively, in FiveM you can use F8 -> start/stop RVS to handle the resource individually.
 
 ## Usage
 
